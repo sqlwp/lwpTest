@@ -23,7 +23,7 @@ public class DemoScanner {
             } else if (userInt > getInt) {
                 System.out.println("大了");
             } else {
-                System.out.println("恭喜您猜对了！");
+                System.out.println("恭喜您猜对了！测试提交");
                 break;
             }
         }

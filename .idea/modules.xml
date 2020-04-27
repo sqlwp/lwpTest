@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lwpTest.iml" filepath="$PROJECT_DIR$/lwpTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simulationFund/simulationFund.iml" filepath="$PROJECT_DIR$/simulationFund/simulationFund.iml" />
     </modules>
   </component>
 </project>
